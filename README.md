@@ -1,2 +1,2 @@
 # oracle_gql_apis
-Learning GraphQL with Oracle
+Learning GraphQL with Oracle database
